@@ -6,9 +6,10 @@ A simple web-based User Management System built using PHP, MySQL, HTML, CSS, and
 
 ![User Management System Preview](screenshot.png)
 
+
 ## Project Demo
 
-![User Management System Demo](./user-management.gif)
+![User Management System Demo](./user-management.gif.gif)
 ## Features
 
 * Add new users with name and age
