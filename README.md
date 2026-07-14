@@ -1,6 +1,6 @@
 # User Management System
 
-A simple web-based User Management System built using PHP, MySQL, HTML, CSS, and JavaScript.
+A simple web-based User Management System built using PHP, MySQL, HTML, CSS, and JavaScript
 
 ## Project Preview
 
@@ -47,22 +47,22 @@ user-management-system/
 
 ## How to Run the Project
 
-1. Install and open XAMPP.
-2. Start Apache and MySQL.
+1. Install and open XAMPP
+2. Start Apache and MySQL
 3. Copy the project folder into the `htdocs` directory:
 
 ```text
 C:\xampp\htdocs\
 ```
 
-4. Open phpMyAdmin.
+4. Open phpMyAdmin
 5. Create a database named:
 
 ```text
 user_management
 ```
 
-6. Import the `database.sql` file into the database.
+6. Import the `database.sql` file into the database
 7. Open the project in your browser:
 
 ```text
@@ -71,7 +71,7 @@ http://localhost/user_management/
 
 ## Database
 
-The project uses a MySQL database named `user_management`.
+The project uses a MySQL database named `user_management`
 
 The `users` table contains:
 
@@ -88,4 +88,4 @@ GitHub: **@0xaryam**
 
 ---
 
-Developed as part of a Web & App Programming training task.
+Developed as part of a Web & App Programming training task
